@@ -1,1 +1,1 @@
-[Coding](./another-page.html)  &nbsp;   &nbsp; [Stock](./another-page.html)
+[Coding](./pages/coding/index.md)  &nbsp;   &nbsp; [Stock](./pages/stock/index.md)
