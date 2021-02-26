@@ -1,3 +1,3 @@
-### [Coding](./another-page.html)  
-### [Stock](./another-page.html)
+### [](./another-page.html)  
+### [](./another-page.html)
 
