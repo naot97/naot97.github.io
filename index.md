@@ -1,1 +1,1 @@
-[Coding](./pages/coding/index.md)  &nbsp;   &nbsp; [Stock](./pages/stock/index.md)
+[Coding](./pages/coding/index)  &nbsp;   &nbsp; [Stock](./pages/stock/index)
